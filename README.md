@@ -1,2 +1,0 @@
-# Cloverly-Apollo
-# Cloverly-GraphQL
